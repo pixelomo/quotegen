@@ -47,10 +47,10 @@ var quoteMaker = {
           price = 35;
           break;
       case 'Check-Out':
-          price = 40
+          price = 40;
           break;
       case 'Inventory':
-          price = 55
+          price = 55;
           break;
     }
     // add 5 per room, from 1-6 rooms
