@@ -5,7 +5,7 @@ var quoteMaker = {
             'furnishing':  null,
             'quoteString': ''
         },
-    
+   
   function servicesListener(){
      this.data.services = document.getElementById('service').options[document.getElementById('service').selectedIndex].text;
   },
