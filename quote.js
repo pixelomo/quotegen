@@ -9,7 +9,7 @@ var quoteMaker = {
   function servicesListener(){
      this.data.services = document.getElementById('service').options[document.getElementById('service').selectedIndex].text;
   },
-
+  
   function bedroomsListener(){
      this.data.bedrooms = document.getElementById('bedrooms').options[document.getElementById('bedrooms').selectedIndex].text;
   },
