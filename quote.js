@@ -1,5 +1,5 @@
 var quoteMaker = {
-        data : {
+        data : { 
             'services':    null,
             'bedrooms':    null,
             'furnishing':  null,
